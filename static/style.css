@@ -1,0 +1,17 @@
+body {
+ background-color: white;
+ height: 1000vh;
+}
+.container {
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(https://cdn.pixabay.com/photo/2023/01/12/07/19/rat-7713508_960_720.jpg);
+    background-attachment: fixed;
+
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
